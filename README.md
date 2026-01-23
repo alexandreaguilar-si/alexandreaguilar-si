@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Alexandre
 
-<!--
-**alexandreaguilar-si/alexandreaguilar-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+🔐 Foco em Cibersegurança e Engenharia de Software  
+📘 Documentando minha jornada de aprendizado em tecnologia  
 
-Here are some ideas to get you started:
+### 📂 Áreas de Estudo
+- Fundamentos de Cibersegurança
+- Redes e Infraestrutura
+- Engenharia de Software
+- Segurança da Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Objetivo
+Construir uma base sólida em tecnologia e segurança para atuar em projetos e desafios reais.
