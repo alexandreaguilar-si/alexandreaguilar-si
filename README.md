@@ -11,5 +11,5 @@
 - Engenharia de Software
 - Versionamento com Git e GitHub
 
-### 🚀 Objetivo
+### 🎯 Objetivo
 Construir uma base sólida em tecnologia e segurança para atuar em projetos e desafios reais.
