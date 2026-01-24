@@ -6,7 +6,7 @@
 
 ## 📚 Áreas de Estudo
 - Fundamentos de Cibersegurança
-- Proteção de Dados
+- Segurança da Informação
 - Redes e Infraestrutura
 - Engenharia de Software
 - Versionamento com Git e GitHub
