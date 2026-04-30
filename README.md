@@ -1,3 +1,4 @@
+<img align="right" src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
 ## 👋 Olá, eu sou o Alexandre
 
 🎓 Estudante de Sistemas de Informação    
