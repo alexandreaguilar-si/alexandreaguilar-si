@@ -9,8 +9,9 @@
 </a>
 
 
-### 🎯 Objetivo
-Construir uma base sólida em tecnologia e segurança para atuar em projetos e desafios reais.
+## 🎯 Objetivo
+
+Atuar como Desenvolvedor Back-end Java, desenvolvendo aplicações com Spring Boot e PostgreSQL, enquanto aprofundo meus conhecimentos em Engenharia de Software, arquitetura de sistemas e desenvolvimento de aplicações escaláveis.
 
 
 ### 🛠️ Tecnologias e Ferramentas
