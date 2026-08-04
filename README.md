@@ -1,6 +1,4 @@
-
-<table>
-<tr>
+<img align="right" src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
 
 ## Alexandre Aguilar
 
@@ -12,16 +10,7 @@ Estudante de Sistemas de Informação (UNIPAR) construindo base técnica em dese
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</td>
-<td width="260px">
-
-<img src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
-
-</td>
-</tr>
-</table>
-
----
+<br><br><br>
 
 ### 🛠️ Tecnologias e Ferramentas
 
