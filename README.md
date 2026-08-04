@@ -10,6 +10,8 @@ Estudante de Sistemas de Informação (UNIPAR) construindo base técnica em dese
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<br clear="both">
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
