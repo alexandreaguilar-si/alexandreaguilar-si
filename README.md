@@ -2,10 +2,8 @@
 
 ### Olá, eu sou o Alexandre 👋
 
-🎓 Estudante de Sistemas de Informação (UNIPAR) | Foco em Back-end Java
+🎓 Estudante de Sistemas de Informação (UNIPAR)
 📍 Cianorte, PR
-
-**Objetivo:** Atuar como Desenvolvedor Back-end Java, construindo aplicações com Spring Boot e PostgreSQL, com evolução planejada para arquitetura de sistemas e cibersegurança.
 
 <a href="https://www.linkedin.com/in/alexandre-aguilar-si" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -23,8 +21,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white)
-
-### 📊 Atividade
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreaguilar-si&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaguilar-si&layout=compact&theme=dark)
