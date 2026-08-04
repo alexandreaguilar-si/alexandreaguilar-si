@@ -1,7 +1,6 @@
 
 <table>
 <tr>
-<td valign="top">
 
 ## Alexandre Aguilar
 
