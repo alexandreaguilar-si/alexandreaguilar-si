@@ -1,15 +1,13 @@
 <img align="right" src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
 
-### Olá, eu sou o Alexandre 👋
+## Alexandre Aguilar
 
-🎓 Estudante de Sistemas de Informação (UNIPAR)
+Estudante de Sistemas de Informação (UNIPAR) construindo base técnica em desenvolvimento back-end com Java.
+
 📍 Cianorte, PR
 
 <a href="https://www.linkedin.com/in/alexandre-aguilar-si" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 ---
