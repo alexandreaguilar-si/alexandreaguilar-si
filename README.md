@@ -19,5 +19,5 @@ Estudante de Sistemas de Informação (UNIPAR) construindo base técnica em dese
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=pythojn&logoColor=lightblue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=pythojn&logoColor=gray)
 
