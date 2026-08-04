@@ -9,7 +9,7 @@
 </a>
 
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 Atuar como Desenvolvedor Back-end Java, desenvolvendo aplicações com Spring Boot e PostgreSQL, enquanto aprofundo meus conhecimentos em Engenharia de Software, arquitetura de sistemas e desenvolvimento de aplicações escaláveis.
 
