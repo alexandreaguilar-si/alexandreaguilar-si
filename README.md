@@ -1,10 +1,17 @@
 <img align="right" src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
 
-**ALEXANDRE AGUILAR**
+# Alexandre Aguilar
 
-Estudante de Sistemas de Informação (UNIPAR) construindo base técnica em desenvolvimento back-end com Java.
+🎓 Estudante de Sistemas de Informação
 
-📍 Cianorte, PR
+💻 Tecnologia & Negócios | Análise de Sistemas
+
+### 🛠️ Tecnologias
+
+Java • Spring Boot • SQL • PostgreSQL • Git • Python
+
+
+🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-aguilar-si/)
 
 <a href="https://www.linkedin.com/in/alexandre-aguilar-si" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
