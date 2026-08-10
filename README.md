@@ -1,9 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/alexandreaguilar-si/alexandreaguilar-si/main/computer-illustration.png" width="260px" alt="laptop com código" />
 
-🎓 Estudante de Sistemas de Informação
-
-💻 Tecnologia & Negócios | Análise de Sistemas
-
+🎓 Graduando em Sistemas de Informação
 
 <a href="https://www.linkedin.com/in/alexandre-aguilar-si" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23007B85.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
